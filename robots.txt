@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://bo-vizit.com/sitemap.xml
