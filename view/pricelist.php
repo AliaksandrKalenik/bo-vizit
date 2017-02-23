@@ -4,14 +4,14 @@ $priceDict = json_decode($priceBase, true);
 ?>
 <main id="main">
     <div class="container-padding bg-type2">
-        <h2>Прейскурант цен на 2016 год: </h2><br>
+        <h2>Прейскурант цен на 2017 год: </h2><br>
         <table>
             <thead>
             <tr>
                 <th>№ п/п</th>
                 <th>Номер</th>
                 <th>Период</th>
-                <th>Стоимость номера, грн.</th>
+                <th>Стоимость проживания(за 1 человеа), грн.</th>
                 <th>Описание номера</th>
             </tr>
             </thead>
